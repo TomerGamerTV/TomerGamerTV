@@ -11,14 +11,14 @@
 
 - 🌱 I’m currently learning **Unity**
 
-- 🤝 I’m looking for help with **Nothing im, ok**
+- 🤝 I’m looking for help with **Nothing, I'm ok**
 - 👨‍💻 All of my projects are available at [https://github.com/TomerGamerTV](https://github.com/TomerGamerTV)
 
 - 💬 Ask me about **fortnite and I will block you**
 
-- 📫 How to reach me **donyoudareemailme@gmail.com**
+- 📫 How to reach me **dontyoudareemailme@gmail.com**
 
-- ⚡ Fun fact **I broke my Windows 4 times**
+- ⚡ Fun fact **I broke my Windows 5 times**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
