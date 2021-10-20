@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Don't Touch the Cubes](https://tomergamertv.itch.io/dont-touch-the-cubes)
 
-- 🌱 I’m currently learning **Unity**
+- 🌱 I’m currently learning **HTML and Java**
 
 - 🤝 I’m looking for help with **Nothing, I'm ok**
 - 👨‍💻 All of my projects are available at [https://github.com/TomerGamerTV](https://github.com/TomerGamerTV)
