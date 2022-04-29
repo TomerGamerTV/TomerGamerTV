@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/tomergamertv" target="blank"><img src="https://img.shields.io/twitter/follow/tomergamertv?logo=twitter&style=for-the-badge" alt="tomergamertv" /></a> </p>
 
-- 🔭 I’m currently working on [Don't Touch the Cubes](https://tomergamertv.itch.io/dont-touch-the-cubes)
+- 🔭 I’m currently working on [Don't Touch the Cubes](https://www.microsoft.com/store/productId/9PGMXNHDHRCS)
 
 - 🌱 I’m currently learning **HTML and Java**
 
-- 🤝 I’m looking for help with **Nothing, I'm ok**
+- 🤝 I’m looking for help with **Lua Scripting and C#**
 - 👨‍💻 All of my projects are available at [https://github.com/TomerGamerTV](https://github.com/TomerGamerTV)
 
 - 💬 Ask me about **fortnite and I will block you**
