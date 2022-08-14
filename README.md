@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Don't Touch the Cubes](https://www.microsoft.com/store/productId/9PGMXNHDHRCS)
 
-- 🌱 I’m currently learning **HTML and Java**
+- 🌱 I’m currently learning **HTML and C#**
 
 - 🤝 I’m looking for help with **Lua Scripting and C#**
 - 👨‍💻 All of my projects are available at [https://github.com/TomerGamerTV](https://github.com/TomerGamerTV)
@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **dontyoudareemailme@gmail.com**
 
-- ⚡ Fun fact **I broke my Windows 5 times**
+- ⚡ Fun fact **I broke my Windows 6 times**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
