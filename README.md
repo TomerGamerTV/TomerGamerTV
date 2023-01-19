@@ -9,12 +9,12 @@
 
 - 🔭 I’m currently working on [Don't Touch the Cubes](https://www.microsoft.com/store/productId/9PGMXNHDHRCS)
 
-- 🌱 I’m currently learning **HTML and C#**
+- 🌱 I’m currently learning **HTML and C#** (Acutally not i don't have time for this)
 
 - 🤝 I’m looking for help with **Lua Scripting and C#**
 - 👨‍💻 All of my projects are available at [https://github.com/TomerGamerTV](https://github.com/TomerGamerTV)
 
-- 💬 Ask me about **fortnite and I will block you**
+- 💬 Ask me about **nothing. don't ask me.**
 
 - 📫 How to reach me **dontyoudareemailme@gmail.com**
 
