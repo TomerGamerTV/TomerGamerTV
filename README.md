@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **dontyoudareemailme@gmail.com**
 
-- ⚡ Fun fact **I broke my Windows 9 times**
+- ⚡ Fun fact **I broke my Windows 10 times**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
