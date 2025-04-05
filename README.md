@@ -7,18 +7,18 @@
 
 <p align="left"> <a href="https://twitter.com/tomergamertv" target="blank"><img src="https://img.shields.io/twitter/follow/tomergamertv?logo=twitter&style=for-the-badge" alt="tomergamertv" /></a> </p>
 
-- 🔭 I’m currently working on [Don't Touch the Cubes](https://www.microsoft.com/store/productId/9PGMXNHDHRCS)
+- 🔭 I’m currently working on multiple cool projects
 
 - 🌱 I’m currently learning **HTML and C#** (Acutally not i don't have time for this)
 
-- 🤝 I’m looking for help with **Lua Scripting and C#**
+- 🤝 I’m looking for help with **Lua Scripting, Python, Swift, Flutter.**
 - 👨‍💻 All of my projects are available at [https://github.com/TomerGamerTV](https://github.com/TomerGamerTV)
 
 - 💬 Ask me about **nothing. don't ask me.**
 
 - 📫 How to reach me **dontyoudareemailme@gmail.com**
 
-- ⚡ Fun fact **I broke my Windows 10 times**
+- ⚡ Fun fact **I broke my Windows 11 times**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
