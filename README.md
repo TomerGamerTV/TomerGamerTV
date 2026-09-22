@@ -8,7 +8,7 @@
 [![Followers](https://img.shields.io/github/followers/TomerGamerTV?style=for-the-badge&logo=github&label=Followers&color=181717)](https://github.com/TomerGamerTV?tab=followers)
 [![X](https://img.shields.io/badge/@TomerGamerTV-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/TomerGamerTV)
 
-<code>build → break → debug → fix → push</code>
+<code>build → break → debug → fix → break again → push</code>
 
 </div>
 
