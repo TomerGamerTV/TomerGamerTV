@@ -1,41 +1,132 @@
-<h1 align="center">Hi 👋, I'm TomerGamerTV</h1>
-<h3 align="center">Just Someone That's Making Random Stuff On GitHub</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tomergamertv&label=Profile%20views&color=0e75b6&style=flat" alt="tomergamertv" /> </p>
+# TomerGamerTV
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tomergamertv" alt="tomergamertv" /></a> </p>
+### Developer · Gamer · Professional Side-Project Starter
 
-<p align="left"> <a href="https://twitter.com/tomergamertv" target="blank"><img src="https://img.shields.io/twitter/follow/tomergamertv?logo=twitter&style=for-the-badge" alt="tomergamertv" /></a> </p>
+[![GitHub](https://img.shields.io/badge/GitHub-TomerGamerTV-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TomerGamerTV)
+[![Followers](https://img.shields.io/github/followers/TomerGamerTV?style=for-the-badge&logo=github&label=Followers&color=181717)](https://github.com/TomerGamerTV?tab=followers)
+[![X](https://img.shields.io/badge/@TomerGamerTV-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/TomerGamerTV)
 
-- 🔭 I’m currently working on multiple cool projects
+<code>build → break → debug → fix → push</code>
 
-- 🌱 I’m currently learning **HTML and C#** (Acutally not i don't have time for this)
+</div>
 
-- 🤝 I’m looking for help with **Lua Scripting, Python, Swift, Flutter.**
-- 👨‍💻 All of my projects are available at [https://github.com/TomerGamerTV](https://github.com/TomerGamerTV)
+---
 
-- 💬 Ask me about **nothing. don't ask me.**
+## `$ whoami`
 
-- 📫 How to reach me **dontyoudareemailme@gmail.com**
+```yaml
+name: Tomer
+handle: TomerGamerTV
+status: "probably building something"
+specialty:
+  - native apps
+  - automation
+  - game tools
+  - web experiments
+  - compatibility & runtime projects
+bugs_created: "yes"
+bugs_fixed: "eventually"
+```
 
-- ⚡ Fun fact **I broke my Windows 11 times**
+I make whatever seems interesting enough to turn into a repository.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/tomergamertv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tomergamertv" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/tomergamertv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="tomergamertv" height="30" width="40" /></a>
-<a href="https://fb.com/tomergamertv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tomergamertv" height="30" width="40" /></a>
-<a href="https://instagram.com/tomergamertv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tomergamertv" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/tomergamertv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tomergamertv" height="30" width="40" /></a>
-</p>
+Sometimes it's an app. Sometimes it's a game tool. Sometimes it's automation. Sometimes it's a project that started with *"this should be easy"* and ended three days later inside a debugger.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+> If it worked perfectly on the first try, I'm immediately suspicious.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tomergamertv&show_icons=true&locale=en&layout=compact" alt="tomergamertv" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tomergamertv&show_icons=true&locale=en" alt="tomergamertv" /></p>
+## `$ git log --languages`
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tomergamertv&" alt="tomergamertv" /></p>
+These are based on languages that actually show up across my repositories — not a wishlist of things I touched once in a tutorial.
 
+### Recent / active
 
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
+
+### Also used
+
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+---
+
+## `$ ls ~/toolbox`
+
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Cargo](https://img.shields.io/badge/Cargo-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-00A2FF?style=for-the-badge&logo=robloxstudio&logoColor=white)
+
+---
+
+## `$ cd ~/rabbit-holes`
+
+A few examples of the kinds of things I end up working on:
+
+- **[FeatherPlus](https://github.com/TomerGamerTV/FeatherPlus)** — iOS / iPadOS app management and sideloading work in Swift.
+- **[UAT-Global-Server](https://github.com/TomerGamerTV/UAT-Global-Server)** — Python automation built around an Uma Musume auto trainer.
+- **[VibedWorldTools](https://github.com/TomerGamerTV/VibedWorldTools)** — Minecraft tooling written in Kotlin.
+- **[discord-video-player](https://github.com/TomerGamerTV/discord-video-player)** — a JavaScript site that plays random Discord-hosted videos.
+- **[blog](https://github.com/TomerGamerTV/blog)** — my attempt at having a blog without getting distracted by rebuilding the blog itself.
+- **[My-Roblox-Scripts](https://github.com/TomerGamerTV/My-Roblox-Scripts)** — exactly what the repository name warns you about.
+
+---
+
+## `$ cat current_mission.txt`
+
+```text
+Make something interesting.
+Break it.
+Figure out why it broke.
+Fix it.
+Break something completely unrelated.
+git push
+```
+
+---
+
+## `$ ./connect --social`
+
+<div align="center">
+
+[![X](https://img.shields.io/badge/X-TomerGamerTV-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/TomerGamerTV)
+[![YouTube](https://img.shields.io/badge/YouTube-TomerGamerTV-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/tomergamertv)
+[![Instagram](https://img.shields.io/badge/Instagram-TomerGamerTV-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tomergamertv)
+[![Facebook](https://img.shields.io/badge/Facebook-TomerGamerTV-0866FF?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/tomergamertv)
+[![Email](https://img.shields.io/badge/Email-Don't_you_dare-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dontyoudareemailme@gmail.com)
+
+</div>
+
+---
+
+## `$ ./fun_fact`
+
+```text
+Windows installations broken : 11
+Lessons learned              : debatable
+Would do it again            : probably
+```
+
+<div align="center">
+
+<sub>README powered by questionable decisions, unfinished side projects, and <code>git push</code>.</sub>
+
+</div>
