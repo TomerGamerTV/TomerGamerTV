@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="260" viewBox="0 0 920 260" role="img" aria-labelledby="chart-title chart-desc">
+  <title id="chart-title">GitHub activity graph setup</title>
+  <desc id="chart-desc">Contribution activity graph awaiting its first automatic update.</desc>
+  <rect width="920" height="260" rx="16" fill="#0d1117"/>
+  <rect x="0.5" y="0.5" width="919" height="259" rx="15.5" fill="none" stroke="#30363d"/>
+  <text x="35" y="50" font-family="Arial,sans-serif" font-size="22" font-weight="700" fill="#e6edf3">CONTRIBUTION ACTIVITY</text>
+  <text x="35" y="94" font-family="Arial,sans-serif" font-size="15" fill="#8b949e">Preparing your activity chart...</text>
+  <text x="35" y="125" font-family="Arial,sans-serif" font-size="14" fill="#8b949e">GitHub Actions will generate the graph using your latest contribution data.</text>
+  <path d="M 35 200 H 883" fill="none" stroke="#30363d"/>
+</svg>
