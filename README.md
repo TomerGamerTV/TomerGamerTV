@@ -90,6 +90,16 @@ A few examples of the kinds of things I end up working on:
 
 ---
 
+## `$ git log --activity`
+
+<div align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TomerGamerTV&theme=github-compact&hide_border=true)
+
+</div>
+
+---
+
 ## `$ cat current_mission.txt`
 
 ```text
