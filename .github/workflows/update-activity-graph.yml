@@ -1,0 +1,41 @@
+name: Update profile activity graph
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/update-activity-graph.yml
+      - scripts/generate_activity_graph.py
+  schedule:
+    - cron: '17 */6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-activity-graph
+  cancel-in-progress: false
+
+jobs:
+  update-graph:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Generate SVG from GitHub contribution data
+        env:
+          GITHUB_USERNAME: ${{ github.repository_owner }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/generate_activity_graph.py
+      - name: Commit updated SVG
+        run: |
+          if ! git diff --quiet -- assets/github-activity.svg; then
+            git config user.name 'github-actions[bot]'
+            git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+            git add assets/github-activity.svg
+            git commit -m 'chore: refresh profile activity graph'
+            git push
+          fi
