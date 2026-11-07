@@ -94,7 +94,8 @@ A few examples of the kinds of things I end up working on:
 
 <div align="center">
 
-![GitHub Contribution Activity — Last 31 Days](assets/github-activity.svg)
+![GitHub Contribution Activity — Last 31 Days](assets/github-activity-dark.svg#gh-dark-mode-only)
+![GitHub Contribution Activity — Last 31 Days](assets/github-activity-light.svg#gh-light-mode-only)
 
 </div>
 
