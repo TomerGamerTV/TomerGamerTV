@@ -2,13 +2,15 @@
 """Generate a self-hosted GitHub contribution activity chart."""
 import json
 import os
+import re
 from datetime import datetime, timedelta, timezone
 from html import escape
 from pathlib import Path
 from urllib.request import Request, urlopen
 
 USERNAME = os.environ.get("GITHUB_USERNAME", "TomerGamerTV")
-OUTPUT = Path("assets/github-activity.svg")
+OUTPUT_LIGHT = Path("assets/github-activity-light.svg")
+OUTPUT_DARK = Path("assets/github-activity-dark.svg")
 QUERY = """query($login: String!) {
   user(login: $login) {
     contributionsCollection {
@@ -75,7 +77,7 @@ def _smooth_line(points):
     return " ".join(parts)
 
 
-def render_svg(username, daily, today):
+def render_svg(username, daily, today, theme="light"):
     dates = [today - timedelta(days=30-i) for i in range(31)]
     counts = [max(0, int(daily.get(d.isoformat(), 0))) for d in dates]
     total = sum(counts)
@@ -138,14 +140,34 @@ def render_svg(username, daily, today):
             f'<text x="{x:.2f}" y="263" text-anchor="{anchor}" font-family="Arial,sans-serif" font-size="11" fill="#8c959f">{dates[i].strftime("%b %d")}</text>'
         )
     out.append("</svg>")
-    return "\n".join(out) + "\n"
+    svg = "\n".join(out) + "\n"
+    if theme == "dark":
+        # Preserve layout and contribution values; switch only the palette.
+        dark_palette = {
+            "#ffffff": "#0d1117",
+            "#eaeef2": "#30363d",
+            "#1f883d": "#3fb950",
+            "#8c959f": "#8b949e",
+            "#57606a": "#8b949e",
+            "#2da44e": "#3fb950",
+            "#d0d7de": "#30363d",
+        }
+        svg = re.sub(
+            r"#[0-9a-fA-F]{6}",
+            lambda match: dark_palette.get(match.group(0).lower(), match.group(0)),
+            svg,
+        )
+    elif theme != "light":
+        raise ValueError(f"Unsupported color theme: {theme}")
+    return svg
 
 def main():
     today = datetime.now(timezone.utc).date()
     daily = get_contributions(USERNAME, os.environ.get("GITHUB_TOKEN"))
-    OUTPUT.parent.mkdir(parents=True, exist_ok=True)
-    OUTPUT.write_text(render_svg(USERNAME, daily, today), encoding="utf-8")
-    print(f"Updated {OUTPUT}")
+    OUTPUT_LIGHT.parent.mkdir(parents=True, exist_ok=True)
+    for output, theme in ((OUTPUT_LIGHT, "light"), (OUTPUT_DARK, "dark")):
+        output.write_text(render_svg(USERNAME, daily, today, theme=theme), encoding="utf-8")
+        print(f"Updated {output}")
 
 
 if __name__ == "__main__":
