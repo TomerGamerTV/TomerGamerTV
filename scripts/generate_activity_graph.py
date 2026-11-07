@@ -95,18 +95,11 @@ def render_svg(username, daily, today, theme="light"):
     line = _smooth_line(points)
     area = f"{line} L {x_right} {y_bottom} L {x_left} {y_bottom} Z"
 
-    focus_i = max(range(31), key=lambda i: (counts[i], i))
-    focus_x, focus_y = points[focus_i]
-    focus_value = counts[focus_i]
-    focus_date = dates[focus_i].strftime("%b %d, %Y")
-    bubble_x = max(x_left, min(x_right-144, focus_x-72))
-    bubble_y = max(62, focus_y-59)
-
     name = escape(username)
     out = [
         '<svg xmlns="http://www.w3.org/2000/svg" width="920" height="288" viewBox="0 0 920 288" role="img" aria-labelledby="chart-title chart-desc">',
         f'<title id="chart-title">{name} GitHub contribution activity over the last 31 days</title>',
-        f'<desc id="chart-desc">{total} contributions across {active} active days through {today.isoformat()}. Peak {focus_value} on {dates[focus_i].isoformat()}.</desc>',
+        f'<desc id="chart-desc">{total} contributions across {active} active days through {today.isoformat()}.</desc>',
         '<defs>',
         '<linearGradient id="activity-fill" x1="0" y1="0" x2="0" y2="1">',
         '<stop offset="0%" stop-color="#2da44e" stop-opacity=".22"/>',
@@ -127,11 +120,6 @@ def render_svg(username, daily, today, theme="light"):
     out.extend([
         f'<path d="{area}" fill="url(#activity-fill)"/>',
         f'<path d="{line}" fill="none" stroke="#2da44e" stroke-width="2.7" stroke-linecap="round" stroke-linejoin="round"/>',
-        f'<line x1="{focus_x:.2f}" y1="{y_top}" x2="{focus_x:.2f}" y2="{y_bottom}" stroke="#1f883d" stroke-opacity=".30" stroke-width="1"/>',
-        f'<circle cx="{focus_x:.2f}" cy="{focus_y:.2f}" r="5" fill="#ffffff" stroke="#1f883d" stroke-width="2.5"/>',
-        f'<rect x="{bubble_x:.2f}" y="{bubble_y:.2f}" width="144" height="46" rx="8" fill="#ffffff" stroke="#d0d7de"/>',
-        f'<text x="{bubble_x+10:.2f}" y="{bubble_y+18:.2f}" font-family="Arial,sans-serif" font-size="13" font-weight="700" fill="#1f883d">{focus_value} contributions</text>',
-        f'<text x="{bubble_x+10:.2f}" y="{bubble_y+35:.2f}" font-family="Arial,sans-serif" font-size="11" fill="#8c959f">{focus_date}</text>',
     ])
     for i in (0, 6, 12, 18, 24, 30):
         x, _ = points[i]
