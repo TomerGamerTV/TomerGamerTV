@@ -120,7 +120,6 @@ git push
 [![X](https://img.shields.io/badge/X-TomerGamerTV-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/TomerGamerTV)
 [![YouTube](https://img.shields.io/badge/YouTube-TomerGamerTV-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/tomergamertv)
 [![Instagram](https://img.shields.io/badge/Instagram-TomerGamerTV-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tomergamertv)
-[![Facebook](https://img.shields.io/badge/Facebook-TomerGamerTV-0866FF?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/tomergamertv)
 [![Email](https://img.shields.io/badge/Email-Don't_you_dare-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dontyoudareemailme@gmail.com)
 
 </div>
